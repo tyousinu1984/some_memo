@@ -1,3 +1,3 @@
 # some_memo
 
-一些记录
+Record some programs written at work
